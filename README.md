@@ -1,4 +1,4 @@
-Developed a Library Management Application using Java for backend functionality and Java Swing for the graphical user interface.
+Developed a Library Management Application using Java for backend functionality and Java Swing for the GUI.
 The application enables users to log in, browse library collections, and manage borrowing and returning of items such as books, audiobooks, and magazines.
 
 Features:
